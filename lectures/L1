@@ -1,0 +1,12 @@
+
+// class has to be like file name
+public class L1_1{
+    public static void main(String []args){
+        int a, b;
+        System.out.println("Welcome to Cmps 212");
+        a= 5; 
+        b= ++a; // a=6 b=6 
+        c= b++; // use old value of b, then increment b so c=6 & b=7 
+     }
+     
+}
